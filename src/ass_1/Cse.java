@@ -27,7 +27,7 @@ public class Cse implements Chain{
 		} else{
 			nextInChain.calculate(request);
 		}
-			
+			nextInChain.calculate(request);
 			
 	}
    
